@@ -1,15 +1,15 @@
-# Metamask Integration Demo
+# MetaMask Integration Demo
 
-The demo is to demonstrate how a metamask integration is being in Reactjs 
+This demo showcases how to integrate MetaMask into a React.js application.
 
 ## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 14.x or higher recommended)
-- npm or [pnpm](https://pnpm.io/) or [Yarn](https://yarnpkg.com/)
+- npm, [pnpm](https://pnpm.io/), or [Yarn](https://yarnpkg.com/)
 
 ### Installation
-Clone the repository and install dependencies:
+Clone the repository and install the dependencies:
 
 ```bash
 # Clone the repository
@@ -18,12 +18,12 @@ cd <project-folder>
 
 # Install dependencies
 npm install
-# or with Yarn
+# or use Yarn
 yarn
 ```
 
 ### Development
-To start the development server:
+To start the development server, run:
 
 ```bash
 npm run dev
@@ -31,10 +31,10 @@ npm run dev
 yarn dev
 ```
 
-This will start the development server at `http://localhost:5173` (default port).
+The development server will launch at http://localhost:5173 (default port).
 
 ### Building for Production
-To create a production build:
+To create a production build, run:
 
 ```bash
 npm run build
