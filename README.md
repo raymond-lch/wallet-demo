@@ -6,7 +6,7 @@ This demo showcases how to integrate MetaMask into a React.js application.
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 14.x or higher recommended)
-- npm, [pnpm](https://pnpm.io/), or [Yarn](https://yarnpkg.com/)
+- npm, or [Yarn](https://yarnpkg.com/)
 
 ### Installation
 Clone the repository and install the dependencies:
